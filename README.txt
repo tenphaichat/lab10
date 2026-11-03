@@ -1,11 +1,3 @@
-================================================================================
-BỘ MÔN CÔNG NGHỆ PHẦN MỀM - KHOA CÔNG NGHỆ THÔNG TIN - ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á
-BÁO CÁO BÀI TẬP THỰC HÀNH LAB 10: DATAADAPTER, DATATABLE, DATASET VÀ DỮ LIỆU NGẮT KẾT NỐI
-Học phần: Lập trình .NET (IT3212)
-Sinh viên thực hiện: Phan Văn Thắng
-Mã số sinh viên: 24002545
-Lớp: IT3212
-================================================================================
 
 1. TỔNG QUAN VÀ HƯỚNG DẪN CẤU HÌNH MÔI TRƯỜNG
 - Yêu cầu môi trường: Visual Studio 2022 hoặc .NET SDK (>= .NET 8 / .NET 9 hỗ trợ Windows Forms Desktop).
